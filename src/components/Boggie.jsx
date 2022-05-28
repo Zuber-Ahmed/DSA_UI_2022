@@ -32,9 +32,13 @@ export const Boggie=()=>{
             <Grid container spacing={2}>
                 {passData.map((item)=>(
                 <Grid item xs={4}>
-                    <Card>
+                    <Grid
+                    container
+                    direction="column"
+                    justifyContent="flex-end"
+                    alignItems="flex-start">
                         {item}
-                    </Card>
+                    </Grid>
                 </Grid>
                 ))}
             </Grid>

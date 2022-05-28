@@ -14,6 +14,7 @@
 }
 .sub2{
     margin: 10px;
-    background-color: slategray;
-    padding: 20px;
+    background-color: rgb(193, 136, 136);
+    color: white;
+    padding: 50px;
 }
