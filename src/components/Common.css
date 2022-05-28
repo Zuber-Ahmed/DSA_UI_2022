@@ -1,0 +1,20 @@
+.main{
+    background-color: transparent;
+    margin: 10px;
+    padding: 10px;
+    /* border: 1px solid black; */
+}
+.text{
+    margin: 15px;
+    color: black;
+    padding: 20px;
+}
+.sub{
+    margin: 10px;
+}
+.sub2{
+    margin: 10px;
+    background-color: rgb(193, 136, 136);
+    color: white;
+    padding: 50px;
+}
